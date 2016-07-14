@@ -4,7 +4,7 @@
 <h6>
 	timecon.to_epoch(args) accepts date/time tuple or datetime object
 	and delivers integer-value epoch time
-	
+<br>
 	timecon.from_epoch(args) accepts integer-value epoch time 
 	and delivers datetime object
 </h6>
